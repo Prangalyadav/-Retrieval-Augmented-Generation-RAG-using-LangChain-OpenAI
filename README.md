@@ -1,0 +1,2 @@
+# -Retrieval-Augmented-Generation-RAG-using-LangChain-OpenAI
+Developed a RAG-based question-answering system by integrating LangChain, OpenAI GPT models, and FAISS vector store. Implemented document ingestion, text chunking, embedding generation, and efficient vector-based retrieval for contextual information. Designed an intelligent pipeline that processes YouTube transcripts and generates accurate
